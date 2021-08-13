@@ -4,6 +4,7 @@ public class TestBasics {
 		System.out.println("Hi");
 		m1();
 		
+		
 	}
 	 static void m1() {
 		 System.out.println("m1");
